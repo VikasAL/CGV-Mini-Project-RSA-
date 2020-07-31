@@ -1,0 +1,6 @@
+C:\Users\VIKAS RAO\Desktop\New - Copy\Debug\bgi.exe
+C:\Users\VIKAS RAO\Desktop\New - Copy\Debug\bgi.pdb
+C:\Users\VIKAS RAO\Desktop\CGV mini project (RSA)\Debug\bgi.exe
+C:\Users\VIKAS RAO\Desktop\CGV mini project (RSA)\Debug\bgi.pdb
+C:\Users\VIKAS RAO\Desktop\Projects\CGV\CGV mini project (RSA)\Debug\bgi.exe
+C:\Users\VIKAS RAO\Desktop\Projects\CGV\CGV mini project (RSA)\Debug\bgi.pdb
